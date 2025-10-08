@@ -1,0 +1,17 @@
+export const mockComunasOro = [
+	{ id: 1, comuna: 6, cantidad: 25, porcentaje: 80 },
+	{ id: 2, comuna: 1, cantidad: 21, porcentaje: 52 },
+	{ id: 3, comuna: 13, cantidad: 19, porcentaje: 47 },
+	{ id: 4, comuna: 17, cantidad: 16, porcentaje: 40 },
+	{ id: 5, comuna: 4, cantidad: 14, porcentaje: 36 },
+	{ id: 6, comuna: 15, cantidad: 12, porcentaje: 31 },
+	{ id: 7, comuna: 2, cantidad: 10, porcentaje: 26 },
+	{ id: 8, comuna: 8, cantidad: 9, porcentaje: 22 },
+	{ id: 9, comuna: 5, cantidad: 7, porcentaje: 18 },
+	{ id: 10, comuna: 18, cantidad: 6, porcentaje: 14 },
+	{ id: 11, comuna: 20, cantidad: 5, porcentaje: 12 },
+	{ id: 12, comuna: 12, cantidad: 4, porcentaje: 9 },
+	{ id: 13, comuna: 3, cantidad: 3, porcentaje: 7 },
+	{ id: 14, comuna: 10, cantidad: 2, porcentaje: 4 },
+	{ id: 15, comuna: 22, cantidad: 1, porcentaje: 2 },
+];

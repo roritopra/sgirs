@@ -1,0 +1,6 @@
+{
+  "data": [
+    { "id": "c1", "codigo_comuna": "1", "nombre_comuna": "Comuna 1", "status": true },
+    { "id": "c2", "codigo_comuna": "2", "nombre_comuna": "Comuna 2", "status": true }
+  ]
+}
